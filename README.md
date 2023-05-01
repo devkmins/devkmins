@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Devkms&fontSize=48&fontAlignY=35&fontColor=ffffff&fontAlign=30&color=00b894" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Devkms&fontSize=48&fontAlignY=35&fontColor=ffffff&fontAlign=20&color=00b894" />
 
 안녕하세요, 프론트엔드 개발자가 되고자 하는 김민상입니다.
 <br />
@@ -17,7 +17,8 @@
 <br />
 <br />
 <br />
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devkmins&theme=nord_bright)]
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devkmins&theme=nord_bright)
 
 <br />
 
