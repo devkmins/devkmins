@@ -15,5 +15,10 @@
 </div>
 
 <br />
+<br />
+<br />
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={devkmins}&theme={nord_bright}
+
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkmins&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
