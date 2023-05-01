@@ -17,7 +17,7 @@
 <br />
 <br />
 <br />
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devkmins&theme=nord_bright
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devkmins&theme=nord_bright)
 
 <br />
 
