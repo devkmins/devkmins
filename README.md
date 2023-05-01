@@ -2,6 +2,8 @@
 
 안녕하세요, 프론트엔드 개발자가 되고자 하는 김민상입니다.
 <br />
+<br />
+<br />
 
 ## Skills
 <div>
@@ -14,12 +16,8 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </div>
 
-<br />
+<hr />
 <br />
 <br />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devkmins&theme=nord_bright)
-
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkmins&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devkmins&theme=nord_bright)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkmins&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
