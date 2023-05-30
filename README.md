@@ -14,6 +14,6 @@
 
 <hr />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devkmins&theme=nord_bright) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devkmins&count_private=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devkmins&theme=nord_bright)
 
 
