@@ -10,8 +10,6 @@
 <br /> 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/><img src="https://img.shields.io/badge/STYLED COMPONENTS-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkmins&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <hr />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devkmins&theme=nord_bright)
