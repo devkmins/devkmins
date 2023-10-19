@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&text=김민상&fontSize=32&fontAlignY=27&fontColor=ffffff&fontAlign=20&color=2d98da" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&text=&fontSize=32&fontAlignY=27&fontColor=ffffff&fontAlign=20&color=2d98da" />
 
 ## 소개
 
