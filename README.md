@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=김민상&fontSize=32&fontAlignY=35&fontColor=ffffff&fontAlign=20&color=2d98da" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=김민상&fontSize=28&fontAlignY=25&fontColor=ffffff&fontAlign=20&color=2d98da" />
 
 안녕하세요, 프론트엔드 개발자가 되고자 하는 김민상입니다.
 <br />
